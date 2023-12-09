@@ -1,4 +1,4 @@
-# CompanyEvolved
+## CompanyEvolved
 A composition of 50+ experience enhancing, quality of life, and enhanced lethality mods for Lethal Company. Primarily made for me and my friends. However, it's open for the public the enjoy should you stumble across this Repository yourself!
 
 # Installation Instructions
