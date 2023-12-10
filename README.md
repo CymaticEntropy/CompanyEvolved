@@ -4,7 +4,7 @@ A composition of 50+ experience enhancing, quality of life, and enhanced lethali
 **Currently the mods are only compatible for Version 40. I am working on sourcing updated mods from the content creators to migrate to the latest version of Lethal Company**
 
 ## Installation Instructions
-1. Download & Extract the Modpack from the Github Releases
+1. Download & Extract the Modpack from the [Github Releases](https://github.com/CymaticEntropy/CompanyEvolved/releases)
 2. Go to the steam library, right click the game -> Manage -> Browse Local Files (https://prnt.sc/Y90ptQm0jbtV)
 3. If this is your first time installing *__any__* mods, skip the next step
 4. Delete all previous mod files (primarily, you NEED to delete the "BepinEx" folder)
