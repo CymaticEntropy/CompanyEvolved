@@ -1,7 +1,7 @@
 # CompanyEvolved
 A composition of 50+ experience enhancing, quality of life, and enhanced lethality mods for Lethal Company. Primarily made for me and my friends. However, it's open for the public the enjoy should you stumble across this Repository yourself!
 
-**Currently the mods are only compatible for Version 40. I am working on sourcing updated mods from the content creators to migrate to the latest version of Lethal Company**
+**Currently the modpack is only compatible for Version 40. I am working on sourcing updated mods from the content creators to migrate to the latest version of Lethal Company. However, the Multiplayer ONLY modpack *is* up to date with Version 45!**
 
 ## Installation Instructions
 1. Download & Extract the Modpack from the [Github Releases](https://github.com/CymaticEntropy/CompanyEvolved/releases)
